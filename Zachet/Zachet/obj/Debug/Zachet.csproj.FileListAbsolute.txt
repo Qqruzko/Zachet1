@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\bin\Debug\Zachet.exe.config
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\bin\Debug\Zachet.exe
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\bin\Debug\Zachet.pdb
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\obj\Debug\Zachet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\obj\Debug\Zachet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\obj\Debug\Zachet.exe
+C:\Users\Lenovo\Desktop\Labs\Zachet\Zachet\obj\Debug\Zachet.pdb
